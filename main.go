@@ -5,6 +5,7 @@ import (
 
 	"github.com/julienschmidt/httprouter"
 	"gopkg.in/mgo.v2"
+	//cannot add controllers folder- vanishes automatically
 )
 
 func main() {
